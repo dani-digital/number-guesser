@@ -55,13 +55,24 @@ namespace number_guesser
                     //change text color
                     Console.ForegroundColor = ConsoleColor.Red;
 
-                    //header for app info
+                    //tell user it's the wrong number
                     Console.WriteLine("Wrong number. Please try again.");
 
                     //resets text color back to default
                     Console.ResetColor();
                 }
             }
+
+            //output success message for correct guess
+
+            //change text color
+            Console.ForegroundColor = ConsoleColor.Green;
+
+            //tell user it's the right number
+            Console.WriteLine("You are correct!!!");
+
+            //resets text color back to default
+            Console.ResetColor();
 
         }
     }
