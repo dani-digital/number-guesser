@@ -13,8 +13,17 @@ namespace number_guesser
             string appName = "Number Guesser";
             string appVersion = "1.0.0";
             string appAuthor = "Dani O'Neal";
-            //header
+
+            //change text color
+            Console.ForegroundColor = ConsoleColor.Magenta;
+
+            //header for app info
             Console.WriteLine("{0}: Version {1} by {2}", appName, appVersion, appAuthor);
+
+            //resets text color back to default
+            Console.ResetColor();
+
+
         }
     }
 }
