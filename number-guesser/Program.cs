@@ -9,8 +9,9 @@ namespace number_guesser
         //entry point method
         static void Main(string[] args)
         {
+            string name = "Dani ONeal";
             //start here
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(name);
         }
     }
 }
