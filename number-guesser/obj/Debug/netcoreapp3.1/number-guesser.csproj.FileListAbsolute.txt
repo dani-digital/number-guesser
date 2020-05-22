@@ -1,0 +1,13 @@
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.exe
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.deps.json
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.runtimeconfig.json
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.runtimeconfig.dev.json
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.dll
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\bin\Debug\netcoreapp3.1\number-guesser.pdb
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.csprojAssemblyReference.cache
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.AssemblyInfoInputs.cache
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.AssemblyInfo.cs
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.dll
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.pdb
+C:\Users\Dani\Documents\code-practice\.net\number-guesser\number-guesser\obj\Debug\netcoreapp3.1\number-guesser.genruntimeconfig.cache
